@@ -1,7 +1,7 @@
 #### my usual tools & platform
 [![](https://img.shields.io/badge/Doom%20emacs-emacs?style=flat-square&logo=gnu-emacs&logoColor=ffffff&color=blueviolet)](https://github.com/hlissner/doom-emacs)
 [![](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)]()
-[![](https://img.shields.io/badge/Manjaro-%20Linux-33aadd?style=flat-square&logo=manjaro&logoColor=ffffff&color=green)](https://https://ubuntu.com/)
+[![](https://img.shields.io/badge/Manjaro-%20Linux-33aadd?style=flat-square&logo=manjaro&logoColor=ffffff&color=green)](https://manjaro.org/)
 [![](https://img.shields.io/badge/macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)]()
 
