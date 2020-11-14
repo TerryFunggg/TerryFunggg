@@ -13,5 +13,3 @@
 [![](https://img.shields.io/badge/Flutter-flutter?style=flat-square&logo=flutter&color=blue)]()
 [![](https://img.shields.io/badge/HTML\CSS-html?style=flat-square&logo=html5&color=orange)]()
 [![](https://img.shields.io/badge/Javascript-js?style=flat-square&logo=javascript&color=yellow)]()
-
-[![TerryFunggg wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TerryFungggg&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
