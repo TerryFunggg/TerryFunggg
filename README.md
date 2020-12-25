@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/php-php?style=flat-square&logo=php&color=9cf)]()
 [![](https://img.shields.io/badge/golang-go?style=flat-square&logo=go&color=blue)]()
 [![](https://img.shields.io/badge/Ruby-ruby?style=flat-square&logo=ruby&color=red)]()
-[![](https://img.shields.io/badge/dart-dart?style=flat-square&logo=dart&color=lightgrey)]()
+[![](https://img.shields.io/badge/csharp-csharp?style=flat-square&logo=c-sharp&color=blue)]()
 [![](https://img.shields.io/badge/Flutter-flutter?style=flat-square&logo=flutter&color=blue)]()
 [![](https://img.shields.io/badge/HTML\CSS-html?style=flat-square&logo=html5&color=orange)]()
 [![](https://img.shields.io/badge/Javascript-js?style=flat-square&logo=javascript&color=yellow)]()
