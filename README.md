@@ -8,4 +8,4 @@
 [![](https://img.shields.io/badge/Ruby-rails-ruby?style=flat-square&logo=ruby&color=red)]()
 [![](https://img.shields.io/badge/Flutter-flutter?style=flat-square&logo=flutter&color=blue)]()
 [![](https://img.shields.io/badge/HTML\CSS-html?style=flat-square&logo=html5&color=orange)]()
-[![](https://img.shields.io/badge/Javascript-coffeescript-js?style=flat-square&logo=javascript&color=yellow)]()
+[![](https://img.shields.io/badge/Javascript-js?style=flat-square&logo=javascript&color=yellow)]()
