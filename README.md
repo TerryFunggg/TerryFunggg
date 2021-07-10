@@ -11,4 +11,4 @@
 
 Email: oato7m2m5@relay.firefox.com
 
-GPG pub: [link](https://twitter.com/terryyess/status/1413749895509409793?s=20)
+GPG pub: [link](https://twitter.com/terryyess/status/1413754375684583427?s=20)
